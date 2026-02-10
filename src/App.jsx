@@ -8,8 +8,9 @@
 // import ProductDemo from './CE080126/product'
 // import Hook1Example from './CE200126/hook1'
 // import Hook2Example from './CE200126/hook2'
-// import ContactBook from './CEAB6126/contactbook'
-import ToDoList from './CE210126/todolist'
+//  import ContactBook from './CEAB6126/contactbook'
+import ShoppingCart from './CE100226/exercize9.jsx'
+// import ToDoList from './CE210126/todolist'
 // import UseState3 from './CE210126/usestate3'
 function App() {
 
@@ -22,12 +23,13 @@ function App() {
     {/* <RenderCondExample/> */}
     {/* <DemoTest/> */}
     {/* <StateExample/> */}
-    {/* <ContactBook /> */}
+    {/* {<ContactBook /> } */}
     {/* <ProductDemo/> */}
     {/* <Hook1Example/> */}
     {/* <Hook2Example/> */}
     {/* <UseState3 /> */}
-    <ToDoList />
+    {/*<ToDoList />*/}
+    <ShoppingCart />
     </>
 
   )
